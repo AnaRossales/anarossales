@@ -3,8 +3,8 @@
 
 - 🌱 Actualmente estoy aprendiendo **Java, C# y otros idiomas**
 - 📫 Cómo contactarme **anamarttinezzzgmail.com**
-- 😄 Pronouns: She/her
-- ⚡ Languages: Spanish, English and French
+- 😄 Pronombre: Ella
+- ⚡ Idiomas: Español, ingles y frances
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
