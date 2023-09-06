@@ -5,6 +5,8 @@
 - 📫 Cómo contactarme **anamarttinezzzgmail.com**
 - 😄 Pronombre: Ella
 - ⚡ Idiomas: Español, ingles y frances
+-  ✅ Tecnica en Programacion Web
+-  🔄️ Ingenieria en Administracion de Sistemas (en proceso)
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
