@@ -2,7 +2,7 @@
 <h3 align="center">Desarrolladora de México</h3>
 
 - 🌱 Actualmente estoy aprendiendo **Java, C# y otros idiomas**
-- 📫 Cómo contactarme **anamarttinezzzgmail.com**
+- 📫 Cómo contactarme **anamarttinezzz@gmail.com**
 - 😄 Pronombre: Ella
 - ⚡ Idiomas: Español, ingles y frances
 -  ✅ Tecnica en Programacion Web
