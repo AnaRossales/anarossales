@@ -1,12 +1,11 @@
-<h1 align="center">Hola 👋, soy Ana Rosales</h1>
+<h1 align="center">Hola 👋, soy Ana </h1>
 <h3 align="center">Desarrolladora de México</h3>
 
-- 🌱 Actualmente estoy aprendiendo **Java, C# y otros idiomas**
 - 📫 Cómo contactarme **anamarttinezzz@gmail.com**
 - 😄 Pronombre: Ella
 - ⚡ Idiomas: Español, ingles y frances
 -  ✅ Tecnica en Programacion Web
--  🔄️ Ingenieria en Administracion de Sistemas (en proceso)
+-  🔄️ Ingenieria en Administracion de Sistemas 
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
