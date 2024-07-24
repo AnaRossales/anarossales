@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ana Rosales</h1>
 <h3 align="center">A baby programmer trying to learn more every day</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anarossales" alt="anarossales" /></a> </p>
-
 - 🔭 I’m currently working on **Fourier Consulting**
 
 - 📫 How to reach me **anamarttinezzz@gmail.com**
