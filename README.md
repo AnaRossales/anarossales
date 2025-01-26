@@ -7,7 +7,7 @@
 
 - ✅ Tecnica Bilingue Progresivo en Frances **Programacion Web** EIAO
 
-- 🔄 Ingenieria en **Administracion de Sistemas** UANL
+- 🔄 Ingenieria en **Administracion y Sistemas** UANL
 
 - 📕 Instructora en **Technolocicas**
 
