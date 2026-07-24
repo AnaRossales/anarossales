@@ -9,7 +9,7 @@
 
 - 🔄 Ingenieria en **Administracion y Sistemas** UANL
 
-- 📕 Instructora en **Technolocicas**
+- 📕 Instructora en **Technolochicas**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
