@@ -73,7 +73,9 @@
 ### ִ ࣪⚝₊ Métricas de Actividad
 
 <div align="center">
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnaRossales&theme=holi&animation=sequence&duration=2.3)
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnaRossales&theme=holi&animation=sequence&duration=2.3" alt="Detalles de Perfil" />
+</div>
 </div>
 
 <br/>
