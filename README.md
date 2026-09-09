@@ -73,8 +73,8 @@
 ### ִ ࣪⚝₊ Métricas de Actividad
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anarossa&show_icons=true&theme=dark&hide_border=true&title_color=00f2fe&text_color=ffffff&icon_color=00f2fe" height="145" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anarossa&layout=compact&theme=dark&hide_border=true&title_color=00f2fe&text_color=ffffff" height="145" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AnaRossales&show_icons=true&theme=dark&hide_border=true&title_color=00f2fe&text_color=ffffff&icon_color=00f2fe" height="145" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AnaRossales&layout=compact&theme=dark&hide_border=true&title_color=00f2fe&text_color=ffffff" height="145" alt="Top Languages" />
 </div>
 
 <br/>
