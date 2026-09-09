@@ -73,7 +73,7 @@
 ### ִ ࣪⚝₊ Métricas de Actividad
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night&hide_border=true&color=00f2fe" width="100%" alt="Activity Graph" />
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnaRossales&theme=holi&animation=sequence&duration=2.3)
 </div>
 
 <br/>
