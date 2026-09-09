@@ -82,8 +82,10 @@
 
 <div align="center">
 
-<img src="assets/anakin-eyes.gif" width="150" alt="Mi animación" />
+<img src="assets/anakin-eyes.gif" alt="anakin eyes" />
+</div>
 
+<div align="center">
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1200&color=00F2FE&center=true&vCenter=true&width=550&lines=L%C3%B3gica+t%C3%A9cnica%2C+prop%C3%B3sito+social+y+Monster;Desarrollo+de+software+con+impacto" alt="Typing SVG" />
 </a>
