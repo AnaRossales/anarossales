@@ -73,8 +73,7 @@
 ### ִ ࣪⚝₊ Métricas de Actividad
 
 <div align="center">
-  <img src="https://deno-github-readme-stats.vercel.app/api?username=AnaRossales&show_icons=true&theme=tokyonight&hide_border=true&title_color=00f2fe&icon_color=00f2fe&text_color=ffffff" height="150" alt="GitHub Stats" />
-  <img src="https://deno-github-readme-stats.vercel.app/api/top-langs/?username=AnaRossales&layout=compact&theme=tokyonight&hide_border=true&title_color=00f2fe&text_color=ffffff" height="150" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night&hide_border=true&color=00f2fe" width="100%" alt="Activity Graph" />
 </div>
 
 <br/>
